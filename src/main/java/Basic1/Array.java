@@ -7,6 +7,7 @@ public class Array {
 		odd[1]=3;
 		odd[2]=5;
 		odd[3]=7;
+	System.out.println("lll");	
 		for (int k = 0; k<odd.length; k++) {
 			if(odd[k]<=5) {
 			System.out.println(odd[k]);
